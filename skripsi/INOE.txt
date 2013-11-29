@@ -1,0 +1,14 @@
+SISTEM INFORMASI
+	==>admin
+	==>siswa
+	==>guru
+	==>wali kelas
+	==>kepsek
+
+FORM:
+1. data Nilai = leger
+2. data rapot uts
+3. data rapot uas
+4. data siswa
+5. data pengajar
+6. 

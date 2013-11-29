@@ -1,0 +1,8 @@
+function emailcheck($intext) {
+	$thereresult = ereg ("^[^@ ]+@[^@ ]+\.[^@ \.]+$", $intext, $trashed);
+	/*if ($thereresult) { 
+		$isamatch = "Yes"; 
+	} else {
+		$isamatch = "No";
+	}*/
+}

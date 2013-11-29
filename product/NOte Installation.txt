@@ -1,0 +1,12 @@
+
+
+1. install xampp versi xampp-win32-1.7.1-installer
+2. copy all htdocs--akademik
+3. restore database
+	-- jbsakad.sql
+	-- jbssdm.sql
+	-- jbsuser.sql
+	-- jbsumum.sql
+  kalau error, -- Constraints for dumped tables nggak usah di load di sql
+
+4. siap digunakan
